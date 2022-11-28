@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
 
-<div align="center">
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-olive&layout=compact&theme=vue-dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=random-olive&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-olive&layout=compact&theme=vue-dark)
 
-</div>
