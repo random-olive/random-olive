@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 #
 
 <div align="center">
-![random-olive's GitHub stats](https://github-readme-stats.vercel.app/api?username=random-olive&show_icons=true&theme=vue-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=random-olive&show_icons=true&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-olive&layout=compact&theme=vue-dark)
+
 </div>
