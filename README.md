@@ -38,6 +38,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-olive)
 ![random-olive's GitHub Stats](https://github-readme-stats.vercel.app/api?username=random-olive&show_icons=true&theme=vue-dark)
 
-<br/>
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=random-olive&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
