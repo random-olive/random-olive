@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=random-olive&show_icons=true&theme=vue-dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=random-olive&show_icons=true&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-olive&layout=레이아웃 스타일&theme=vue-dark)
-</div>
