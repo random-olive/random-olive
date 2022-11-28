@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📖 Tech Stack
+## 🛠 Tech Stack
 
 <div style="height:auto; gap: 10px;">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" 
@@ -33,11 +33,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F76459?style=flat-square&logo=Figma&logoColor=white" />
 </div>
 
-<br/>
-<div style="height:auto; gap: 20px;">
+## 🤹🏻‍♂️ Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-olive)
 ![random-olive's GitHub Stats](https://github-readme-stats.vercel.app/api?username=random-olive&show_icons=true&theme=vue-dark)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=random-olive&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=random-olive&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
