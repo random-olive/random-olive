@@ -20,16 +20,21 @@ Here are some ideas to get you started:
 ## 📖 Tech Stack
 
 <div style="display: flex; gap: 10px;">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" 
+style="height : auto; margin-left : 10px; margin-right : 10px; "/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; "/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
+style="height : auto; margin-left : 10px; margin-right : 10px; "/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
+style="height : auto; margin-left : 10px; margin-right : 10px; "/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+style="height : auto; margin-left : 10px; margin-right : 10px; "/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"
        style="height : auto; margin-left : 10px; margin-right : 10px;" />
 <img src="https://img.shields.io/badge/Figma-F76459?style=flat-square&logo=Figma&logoColor=white"
        style="height : auto; margin-left : 10px; margin-right : 10px;" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white
+style="height : auto; margin-left : 10px; margin-right : 10px; ""/>
 </div>
 
 <br/>
@@ -40,8 +45,3 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=random-olive&theme=vue-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
