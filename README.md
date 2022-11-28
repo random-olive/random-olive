@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+<br />
 
 ## 🛠 Tech Stack
 
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F76459?style=flat-square&logo=Figma&logoColor=white" />
 </div>
 
+<br />
 <br />
 <br />
 
