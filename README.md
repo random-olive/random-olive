@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🫒 About me :
+Hi there !
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frandom-olive&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 #
+#
 ## 🛠 Tech Stack
 
 <div style="height:auto; gap: 10px;">
@@ -34,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F76459?style=flat-square&logo=Figma&logoColor=white" />
 </div>
 
+#
 #
 ## 🤹🏻‍♂️ Activity
 
