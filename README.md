@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-<div style="height:auto; gap: 10px;">
+<div style="height:auto; margin-left: 20px;">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-olive)
 ![random-olive's GitHub Stats](https://github-readme-stats.vercel.app/api?username=random-olive&show_icons=true&theme=vue-dark)
 
