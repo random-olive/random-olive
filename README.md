@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#
 ## 🛠 Tech Stack
 
 <div style="height:auto; gap: 10px;">
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F76459?style=flat-square&logo=Figma&logoColor=white" />
 </div>
 
+#
 ## 🤹🏻‍♂️ Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=random-olive)
