@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 
 <div style="height:auto; gap: 10px;">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"
+/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" 
 />
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
